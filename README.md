@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HI THERE 👋&fontSize=50" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There%20👋&fontSize=50&fontAlign=50&fontAlignY=50" /> 
 <!-- 메인 배너 -->
 
 ## 자기소개 <!-- h3 -->
