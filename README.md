@@ -17,8 +17,8 @@ E-mail : [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)
 
 ### &#127912; Design <!-- h2 -->
 <div>
+  <img alt="Static Badge_figma" height="23px" src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=Figma&logoColor=%23fff">
   <img alt="Static Badge_ps" height="23px" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=flat&logo=adobephotoshop&logoColor=%23fff">
   <img alt="Static Badge_ai" height="23px" src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=flat&logo=adobeillustrator&logoColor=%23fff">
-  <img alt="Static Badge_pr" height="23px" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF?style=flat&logo=adobepremierepro&logoColor=%23fff">
-  <img alt="Static Badge_figma" height="23px" src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=Figma&logoColor=%23fff">  
+  <img alt="Static Badge_pr" height="23px" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF?style=flat&logo=adobepremierepro&logoColor=%23fff">  
 </div>  
