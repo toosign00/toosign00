@@ -7,7 +7,7 @@ Front-end developer
 계원예술대학교 디지털미디어디자인 프로그래밍 전공  
 E-mail : [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)
 
-### &#128187; Stack <!-- h2 -->
+### &#128187; Stacks <!-- h2 -->
 <div>
   <img alt="Static Badge_html5" height="23px" src="https://img.shields.io/badge/HTML5-%23E33F26?style=flat&logo=HTML5&logoColor=%23fff">
   <img alt="Static Badge_css3" height="23px" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=%23fff">
