@@ -12,6 +12,7 @@ E-mail : [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)
   <img alt="Static Badge_html5" height="23px" src="https://img.shields.io/badge/HTML5-%23E33F26?style=flat&logo=HTML5&logoColor=%23fff">
   <img alt="Static Badge_css3" height="23px" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=%23fff">
   <img alt="Static Badge_javascript" height="23px" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=%23000">
+  <img alt="Static Badge_node.js" height="23px" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
   <img alt="Static Badge_git" height="23px" src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=Git&logoColor=%23fff">
 </div>
 
