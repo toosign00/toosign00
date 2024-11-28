@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There%20👋&fontSize=50&fontAlign=50&fontAlignY=50" /> 
 <!-- 메인 배너 -->
 
-## 자기소개 <!-- h3 -->
+## About Me <!-- h3 -->
 노현수  
 Front-end developer  
 계원예술대학교 디지털미디어디자인 프로그래밍 전공  
