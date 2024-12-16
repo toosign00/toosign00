@@ -6,7 +6,7 @@
 ### 노현수  
 ⚙️ Front-end developer  
 🎓 계원예술대학교 디지털미디어디자인 프로그래밍 전공  
-📧 Email : [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)
+📧 Email : [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)  
 🌐 [Portfolio](https://toosign.kr)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toosign00&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
