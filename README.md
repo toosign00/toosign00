@@ -7,6 +7,9 @@ Front-end developer
 계원예술대학교 디지털미디어디자인 프로그래밍 전공  
 E-mail : [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toosign00)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### &#128187; Stacks <!-- h2 -->
 <div>
   <img alt="Static Badge_html5" height="23px" src="https://img.shields.io/badge/HTML5-%23E33F26?style=flat&logo=HTML5&logoColor=%23fff">
@@ -16,7 +19,7 @@ E-mail : [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)
   <img alt="Static Badge_git" height="23px" src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=Git&logoColor=%23fff">
 </div>
 
-### &#127912; Design <!-- h2 -->
+### &#127912; ETC <!-- h2 -->
 <div>
   <img alt="Static Badge_figma" height="23px" src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=Figma&logoColor=%23fff">
   <img alt="Static Badge_ps" height="23px" src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=flat&logo=adobephotoshop&logoColor=%23fff">
