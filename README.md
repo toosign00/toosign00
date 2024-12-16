@@ -6,10 +6,11 @@
 Front-end developer  
 계원예술대학교 디지털미디어디자인 프로그래밍 전공  
 E-mail : [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toosign00&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[Portfolio](https://toosign.kr){:target="_blank"}
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toosign00&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toosign00&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### &#128187; Stacks <!-- h2 -->
 
