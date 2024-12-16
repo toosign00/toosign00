@@ -3,7 +3,7 @@
 
 ## About Me <!-- h3 -->
 
-#### 노현수  
+### 노현수  
 ⚙️ Front-end developer  
 🎓 계원예술대학교 디지털미디어디자인 프로그래밍 전공  
 📧 Email : [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)
