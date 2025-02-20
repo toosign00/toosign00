@@ -28,6 +28,9 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+
+[![toosign00's GitHub Dark](https://github-readme-stats.vercel.app/api?toosign00=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### &#127912; ETC <!-- h2 -->
 
@@ -36,6 +39,3 @@
 [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftoosign00%2Fhit-counter&count_bg=%23FFCF00&title_bg=%23555555&icon=&icon_color=%23808CE1&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
