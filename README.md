@@ -28,10 +28,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
-
-[![toosign00's GitHub Dark](https://github-readme-stats.vercel.app/api?toosign00=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 ### &#127912; ETC <!-- h2 -->
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -39,3 +35,8 @@
 [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
+
+![toosign00 profile](http://toosign00.herokuapp.com/api?handle=toosign00&theme=dark)
+
+[![toosign00's GitHub Dark](https://github-readme-stats.vercel.app/api?username=toosign00&theme=dark)](https://github.com/toosign00)
+
