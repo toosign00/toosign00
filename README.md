@@ -3,16 +3,14 @@
 
 ## About Me <!-- h3 -->
 
-### 노현수
-
+### 노현수  
 ⚙️ Front-end developer  
 🎓 계원예술대학교 디지털미디어디자인 프로그래밍 전공  
 📧 Email : [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)  
 🌐 [Portfolio](https://toosign.kr)
 
 ![toosign00's GitHub stats](https://github-readme-stats.vercel.app/api?username=toosign00&theme=github_dark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toosign00&layout=compact&theme=dark)](https://github.com/toosign00/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toosign00&layout=compact&theme=dark)
 
 ### 💻 Front-end <!-- h2 -->
 
@@ -21,12 +19,11 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### ⚙️ Back-end <!-- h2 -->
-
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### 🛠️ Tools & Version Control <!-- h2 -->
 
+### 🛠️ Tools & Version Control <!-- h2 -->
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
@@ -37,3 +34,7 @@
 [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
+
+
+
+
