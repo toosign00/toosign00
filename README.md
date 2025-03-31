@@ -12,7 +12,7 @@
 
 ![toosign00's GitHub stats](https://github-readme-stats.vercel.app/api?username=toosign00&theme=github_dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toosign00&layout=compact&theme=dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevinsoo10)](https://solved.ac/kevinsoo10/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kevinsoo10)](https://solved.ac/kevinsoo10)
 
 ### 💻 Front-end <!-- h2 -->
 
