@@ -1,20 +1,22 @@
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css" rel="stylesheet">
+
+<div style="font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There%20👋&fontSize=50&fontAlign=50&fontAlignY=50" /> 
 
 ## About Me
 
 ### 노현수
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img height="150" src="https://avatars.githubusercontent.com/toosign00" style="border-radius: 50%;" />
-  
-  <div style="line-height: 1.6;">
-    ⚙️ Frontend Developer<br>
-    🎓 계원예술대학교 디지털미디어디자인과 프로그래밍 세부 전공<br>
-    📧 <a href="mailto:kevinsoo1014@gmail.com">kevinsoo1014@gmail.com</a><br>
-    🌐 <a href="https://toosign.kr">Portfolio</a><br>
-    📚 <a href="https://velog.io/@toosign00">Blog</a>
-  </div>
-</div>
+<img align="left" height="150" src="https://avatars.githubusercontent.com/toosign00" style="border-radius: 50%; margin-right: 20px;" />
+
+⚙️ Frontend Developer<br>
+🎓 계원예술대학교 디지털미디어디자인과 프로그래밍 세부 전공<br>
+📧 [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)<br>
+🌐 [Portfolio](https://toosign.kr)<br>
+📚 [Blog](https://velog.io/@toosign00)
+
+<br clear="left"/>
 
 <br>
 
@@ -51,25 +53,10 @@
 [![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 
-<!-- ## 🌱 Currently Learning
-- GitHub Actions를 활용한 CI/CD 파이프라인 구축
-- 웹 성능 최적화 및 사용자 경험 개선
-- 인터랙티브한 UI/UX 구현
-
-## 🚀 Featured Projects
-
-### [Project Name](링크)
-- **기술 스택:** React, Next.js, TypeScript
-- **설명:** 프로젝트에 대한 간단한 설명
-- **주요 기능:** 핵심 기능들
-
-### [Project Name](링크)
-- **기술 스택:** Vue.js, Node.js
-- **설명:** 프로젝트에 대한 간단한 설명
-- **주요 기능:** 핵심 기능들 -->
-
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-kevinsoo1014@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinsoo1014@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-toosign.kr-blue?style=for-the-badge&logo=safari&logoColor=white)](https://toosign.kr)
 [![Blog](https://img.shields.io/badge/Blog-Velog-green?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@toosign00)
+
+</div>
