@@ -1,21 +1,31 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There%20👋&fontSize=50&fontAlign=50&fontAlignY=50" /> 
-<!-- 메인 배너 -->
 
-## About Me <!-- h3 -->
+## About Me
 
 ### 노현수
-⚙️ Front-end developer  
-🎓 계원예술대학교 디지털미디어디자인과 프로그래밍 세부 전공  
-📧 [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)  
-🌐 [Portfolio](https://toosign.kr)  
-📚 [Blog](https://velog.io/@toosign00)
 
-![toosign00's GitHub stats](https://github-readme-stats.vercel.app/api?username=toosign00&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toosign00&layout=compact&theme=dark)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img height="150" src="https://avatars.githubusercontent.com/toosign00" style="border-radius: 50%;" />
+  
+  <div style="line-height: 1.6;">
+    ⚙️ Frontend Developer<br>
+    🎓 계원예술대학교 디지털미디어디자인과 프로그래밍 세부 전공<br>
+    📧 <a href="mailto:kevinsoo1014@gmail.com">kevinsoo1014@gmail.com</a><br>
+    🌐 <a href="https://toosign.kr">Portfolio</a><br>
+    📚 <a href="https://velog.io/@toosign00">Blog</a>
+  </div>
+</div>
 
+<br>
 
-### 💻 Front-end <!-- h2 -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=toosign00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toosign00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="160" alt="languages graph" />
+</div>
 
+## 🛠️ Tech Stack
+
+### 💻 Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
@@ -23,23 +33,43 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-### ⚙️ Back-end <!-- h2 -->
+### ⚛️ Framework & Library
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+
+### 🔧 Backend
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-
-### 🛠️ Tools & Version Control <!-- h2 -->
+### 📚 Tools & Version Control
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-### &#127912; ETC <!-- h2 -->
-
+### 🎨 Design & Others
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 
+<!-- ## 🌱 Currently Learning
+- GitHub Actions를 활용한 CI/CD 파이프라인 구축
+- 웹 성능 최적화 및 사용자 경험 개선
+- 인터랙티브한 UI/UX 구현
 
+## 🚀 Featured Projects
 
+### [Project Name](링크)
+- **기술 스택:** React, Next.js, TypeScript
+- **설명:** 프로젝트에 대한 간단한 설명
+- **주요 기능:** 핵심 기능들
 
+### [Project Name](링크)
+- **기술 스택:** Vue.js, Node.js
+- **설명:** 프로젝트에 대한 간단한 설명
+- **주요 기능:** 핵심 기능들 -->
+
+## 📫 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-kevinsoo1014@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinsoo1014@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-toosign.kr-blue?style=for-the-badge&logo=safari&logoColor=white)](https://toosign.kr)
+[![Blog](https://img.shields.io/badge/Blog-Velog-green?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@toosign00)
