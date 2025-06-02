@@ -8,7 +8,7 @@
 
 ### 노현수
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/toosign00" style="border-radius: 50%; margin-right: 20px;" />
+<img align="left" height="150" src="https://avatars.githubusercontent.com/toosign00" style="margin-right: 20px;" />
 
 ⚙️ Frontend Developer<br>
 🎓 계원예술대학교 디지털미디어디자인과 프로그래밍 세부 전공<br>
