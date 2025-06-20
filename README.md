@@ -29,7 +29,6 @@
 <!-- ### ⚛️ Framework & Library -->
 ### 🔧 Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,supabase)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pocketbase)
 
 ### 📚 Tools & Version Control
 [![My Skills](https://skillicons.dev/icons?i=git,github,vite,vercel)](https://skillicons.dev)
