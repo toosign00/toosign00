@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react)](https://skillicons.dev)
 
 <!-- ### ⚛️ Framework & Library -->
 ### 🔧 Backend
