@@ -34,7 +34,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,vite,vercel)](https://skillicons.dev)
 
 ### 🎨 Design & Others
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,xd,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,pr)](https://skillicons.dev)
 
 ## 📫 Connect with Me
 
