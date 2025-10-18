@@ -8,7 +8,6 @@
 
 ### 노현수
 
-⚙️ Frontend Developer<br>
 🎓 계원예술대학교 디지털미디어디자인과 프로그래밍 세부 전공<br>
 📧 [kevinsoo1014@gmail.com](mailto:kevinsoo1014@gmail.com)<br>
 🌐 [Portfolio](https://toosign.kr)<br>
