@@ -24,8 +24,4 @@ QA Engineer<br>
 
 ### 🔧 Tools & Collaboration
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jira,confluence,slack,notion,git,github,figma&titles=true)
-
-## 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-kevinsoo1014@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinsoo1014@gmail.com)
 </div>
