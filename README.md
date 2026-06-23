@@ -24,4 +24,9 @@ QA Engineer<br>
 
 ### 🔧 Tools & Collaboration
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jira,confluence,slack,notion,git,github,figma&titles=true&theme=dark)
+<img
+  src="https://files.toosign.me/github/readme/google_sheets.svg"
+  width="50"
+  alt="Google Sheets"
+/>
 </div>
