@@ -16,12 +16,12 @@ QA Engineer<br>
 ## Tools & Skills
 
 ### QA/Test
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=playwright,postman,chrome&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=playwright,postman,chrome&titles=true%&theme=dark)
 
 <!-- ### ⚛️ Framework & Library -->
 ###  Language
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,mysql)](https://skillicons.dev)
 
 ### 🔧 Tools & Collaboration
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jira,confluence,slack,notion,git,github,figma&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jira,confluence,slack,notion,git,github,figma&titles=true&theme=dark)
 </div>
